@@ -8,3 +8,6 @@
 - 📫 How to reach me: udochukwureginald78@gmail.com
 - 😄 Pronouns: you can simply call me SIRREG
 - ⚡ Fun fact: I am a Microbiologist who has found so much interest in coding and I am also a Researcher/Analyst
+
+## :link: Connect with me at:
+[![LinkedIn](https://img.icons8.com/color/48/undefined/linkedin.png)](https://www.linkedin.com/in/udochukwu-reginald-971938225) [![Twitter](https://img.icons8.com/color/48/undefined/twitter--v1.png)](https://wwww.twitter.com/SIRREG4)
